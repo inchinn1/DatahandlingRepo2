@@ -1,0 +1,6 @@
+name: dataAnalysis-environment
+
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
